@@ -1,0 +1,32 @@
+D:\work code\LAB2_2P\Labp2\Labp2\bin\Debug\net8.0-windows\Labp2.exe
+D:\work code\LAB2_2P\Labp2\Labp2\bin\Debug\net8.0-windows\Labp2.deps.json
+D:\work code\LAB2_2P\Labp2\Labp2\bin\Debug\net8.0-windows\Labp2.runtimeconfig.json
+D:\work code\LAB2_2P\Labp2\Labp2\bin\Debug\net8.0-windows\Labp2.dll
+D:\work code\LAB2_2P\Labp2\Labp2\bin\Debug\net8.0-windows\Labp2.pdb
+D:\work code\LAB2_2P\Labp2\Labp2\obj\Debug\net8.0-windows\Labp2.Form1.resources
+D:\work code\LAB2_2P\Labp2\Labp2\obj\Debug\net8.0-windows\Labp2.csproj.GenerateResource.cache
+D:\work code\LAB2_2P\Labp2\Labp2\obj\Debug\net8.0-windows\Labp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\work code\LAB2_2P\Labp2\Labp2\obj\Debug\net8.0-windows\Labp2.AssemblyInfoInputs.cache
+D:\work code\LAB2_2P\Labp2\Labp2\obj\Debug\net8.0-windows\Labp2.AssemblyInfo.cs
+D:\work code\LAB2_2P\Labp2\Labp2\obj\Debug\net8.0-windows\Labp2.csproj.CoreCompileInputs.cache
+D:\work code\LAB2_2P\Labp2\Labp2\obj\Debug\net8.0-windows\Labp2.dll
+D:\work code\LAB2_2P\Labp2\Labp2\obj\Debug\net8.0-windows\refint\Labp2.dll
+D:\work code\LAB2_2P\Labp2\Labp2\obj\Debug\net8.0-windows\Labp2.pdb
+D:\work code\LAB2_2P\Labp2\Labp2\obj\Debug\net8.0-windows\Labp2.genruntimeconfig.cache
+D:\work code\LAB2_2P\Labp2\Labp2\obj\Debug\net8.0-windows\ref\Labp2.dll
+D:\User\Documents\Downloads\OOP\Labp2.2-main\Labp2.2-main\Labp2\bin\Debug\net8.0-windows\Labp2.exe
+D:\User\Documents\Downloads\OOP\Labp2.2-main\Labp2.2-main\Labp2\bin\Debug\net8.0-windows\Labp2.deps.json
+D:\User\Documents\Downloads\OOP\Labp2.2-main\Labp2.2-main\Labp2\bin\Debug\net8.0-windows\Labp2.runtimeconfig.json
+D:\User\Documents\Downloads\OOP\Labp2.2-main\Labp2.2-main\Labp2\bin\Debug\net8.0-windows\Labp2.dll
+D:\User\Documents\Downloads\OOP\Labp2.2-main\Labp2.2-main\Labp2\bin\Debug\net8.0-windows\Labp2.pdb
+D:\User\Documents\Downloads\OOP\Labp2.2-main\Labp2.2-main\Labp2\obj\Debug\net8.0-windows\Labp2.Form1.resources
+D:\User\Documents\Downloads\OOP\Labp2.2-main\Labp2.2-main\Labp2\obj\Debug\net8.0-windows\Labp2.csproj.GenerateResource.cache
+D:\User\Documents\Downloads\OOP\Labp2.2-main\Labp2.2-main\Labp2\obj\Debug\net8.0-windows\Labp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Documents\Downloads\OOP\Labp2.2-main\Labp2.2-main\Labp2\obj\Debug\net8.0-windows\Labp2.AssemblyInfoInputs.cache
+D:\User\Documents\Downloads\OOP\Labp2.2-main\Labp2.2-main\Labp2\obj\Debug\net8.0-windows\Labp2.AssemblyInfo.cs
+D:\User\Documents\Downloads\OOP\Labp2.2-main\Labp2.2-main\Labp2\obj\Debug\net8.0-windows\Labp2.csproj.CoreCompileInputs.cache
+D:\User\Documents\Downloads\OOP\Labp2.2-main\Labp2.2-main\Labp2\obj\Debug\net8.0-windows\Labp2.dll
+D:\User\Documents\Downloads\OOP\Labp2.2-main\Labp2.2-main\Labp2\obj\Debug\net8.0-windows\refint\Labp2.dll
+D:\User\Documents\Downloads\OOP\Labp2.2-main\Labp2.2-main\Labp2\obj\Debug\net8.0-windows\Labp2.pdb
+D:\User\Documents\Downloads\OOP\Labp2.2-main\Labp2.2-main\Labp2\obj\Debug\net8.0-windows\Labp2.genruntimeconfig.cache
+D:\User\Documents\Downloads\OOP\Labp2.2-main\Labp2.2-main\Labp2\obj\Debug\net8.0-windows\ref\Labp2.dll
